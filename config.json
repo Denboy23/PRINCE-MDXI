@@ -3,7 +3,7 @@
   "MODE": "private",
   "FAKE_TYPING": "false",
   "ALWAYS_ONLINE": "false",
-  "FAKE_RECORDING": "false",
+  "FAKE_RECORDING": "true",
   "AUTO_READ_STATUS": "false",
   "PREFIX": ".",
   "ANTI_LINK": "true"
